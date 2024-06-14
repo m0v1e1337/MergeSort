@@ -1,0 +1,3 @@
+﻿  MergeSort.cpp
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\Анастасия Александровна\MergeSort\MergeSort.cpp(12,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MergeSort.vcxproj -> C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\Анастасия Александровна\MergeSort\x64\Debug\MergeSort.exe
